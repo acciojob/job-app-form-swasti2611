@@ -1,6 +1,3 @@
 
 /* Your CSS Code here. */
- .required::after {
-        content: ' *';
-        color: red;
-      }
+ 
